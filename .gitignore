@@ -12,6 +12,9 @@ marketing_optimizations.db
 marketing_optimizations.db-journal
 
 public/backup*
+.chainlit*
+.praisonignore
+.env
 
 node_modules
 dist
